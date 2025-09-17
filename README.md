@@ -37,6 +37,14 @@ sudo apt install gcc
 sudo apt install g++
 ```
 
+## Install VSCode
+- 우분투에서 아래 링크 접속 후 .deb 파일 다운로드
+- https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
+- 반드시 deb파일이 위치한 디렉토리 내에서 수행해야 함.
+```bash
+sudo apt install code_1.104.0-1757488003_amd64.deb
+```
+
 ## How to Run  
 - 반드시 Makefile이 위치한 디렉토리 내에서 수행해야 함. cd(change directory)로 변경하기
 ```bash
