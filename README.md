@@ -9,6 +9,11 @@ Please read Update Notes regularly before proceeding with the task and check for
 **2025-09-15 :**  
 - initial upload  
 
+**2025-09-24 :**
+- VMWare 설치 과정 문제 관련 설명 추가
+- 아래 이미지와 같은 오류가 지속될 시 조교에게 메일로 문의바랍니다.
+<img width="745" height="248" alt="image" src="https://github.com/user-attachments/assets/f80e3b8f-bdc3-467d-99ec-d9b494f38e3c" />
+
 ---
 
 ## Due Date  
