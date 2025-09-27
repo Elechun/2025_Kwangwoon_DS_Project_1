@@ -18,6 +18,7 @@ Please read Update Notes regularly before proceeding with the task and check for
 **2025-09-27**
 - Linux 환경에서 make 명령어 시 발생하는  *warning: #pragma once in main file* 문구는 헤더파일에 *#pragma once* 선언으로 발생하는 원인으로 오류는 아니지만, 안뜨게 하고 싶으시면 해당 부분을 지우고 돌려보시길 바랍니다.
 - log_조교.txt 파일에서 PRINT 결과 부분, Print로 = 문자 사이에 있는 명령어는 오타로 PRINT로 되어야 한다.
+- QPOP 명령어 : 제안서엔 Queue가 비어있는 경우에 QPOP을 수행하면 다음 명령어를 처리하지 않고 프로그램을 종료한다고 표기가 되어 있는데, 잘못된 표기로 보시면 되겠습니다. 즉, 다음 Error코드 출력 후 다음 명령어를 수행해 주시면 되겠습니다.
 ---
 
 ## Due Date  
