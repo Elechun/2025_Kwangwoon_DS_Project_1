@@ -14,6 +14,8 @@ Please read Update Notes regularly before proceeding with the task and check for
 - 아래 이미지와 같은 오류가 지속될 시 조교에게 메일로 문의바랍니다.
 <img width="745" height="248" alt="image" src="https://github.com/user-attachments/assets/f80e3b8f-bdc3-467d-99ec-d9b494f38e3c" />
 
+**2025-09-27**
+- Linux 환경에서 make 명령어 시 발생하는  *warning: #pragma once in main file* 문구는 헤더파일에 *#pragma once* 선언으로 발생하는 원인으로 오류는 아니지만, 안뜨게 하고 싶으시면 해당 부분을 지우고 돌려보시길 바랍니다. 
 ---
 
 ## Due Date  
