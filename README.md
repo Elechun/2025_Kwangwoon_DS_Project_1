@@ -16,7 +16,8 @@ Please read Update Notes regularly before proceeding with the task and check for
 
 
 **2025-09-27**
-- Linux 환경에서 make 명령어 시 발생하는  *warning: #pragma once in main file* 문구는 헤더파일에 *#pragma once* 선언으로 발생하는 원인으로 오류는 아니지만, 안뜨게 하고 싶으시면 해당 부분을 지우고 돌려보시길 바랍니다. 
+- Linux 환경에서 make 명령어 시 발생하는  *warning: #pragma once in main file* 문구는 헤더파일에 *#pragma once* 선언으로 발생하는 원인으로 오류는 아니지만, 안뜨게 하고 싶으시면 해당 부분을 지우고 돌려보시길 바랍니다.
+- log_조교.txt 파일에서 PRINT 결과 부분, Print로 = 문자 사이에 있는 명령어는 오타로 PRINT로 되어야 한다.
 ---
 
 ## Due Date  
