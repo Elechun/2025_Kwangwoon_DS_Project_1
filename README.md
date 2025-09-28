@@ -22,7 +22,7 @@ Please read Update Notes regularly before proceeding with the task and check for
 
 
 **2025-09-28**
-- 3주차 데이터구조실습 자료 중, DELETE 명령어 'Check point' 설명 표현 수정 필요 : "LIST 옵션의 경우, 총 play 시간이 함께 업데이트 되어야 한다" → "PlayList에서 데이터가 Delete 되면, 총 play 시간이 함께 업데이트 되어야 한다." (5주차 실습 자료, DELETE 명령어 설명 맨 첫번째 페이지에 반영됨)
+- 3주차 데이터구조실습 자료 중, DELETE 명령어 'Check point' 설명 표현 수정 필요 : "LIST 옵션의 경우, 총 play 시간이 함께 업데이트 되어야 한다" → "PlayList에서 데이터가 Delete 되면, 총 play 시간이 함께 업데이트 되어야 한다." (5주차 실습 자료, DELETE 명령어 설명 맨 첫 페이지에 반영됨)
 <img width="875" height="139" alt="image" src="https://github.com/user-attachments/assets/caacb384-9fa1-48e5-86de-6af23ddb72bc" />
 ---
 
